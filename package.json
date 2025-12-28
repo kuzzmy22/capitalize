@@ -1,0 +1,14 @@
+{
+  "name": "capitalize",
+  "version": "1.0.0",
+  "description": "Capitalize utility",
+  "type": "module",
+  "main": "src/capitalize.js",
+  "scripts": {
+    "test": "node tests/capitalize.test.js",
+    "test:watch": "node --watch tests/capitalize.test.js"
+  },
+  "keywords": ["capitalize", "utility"],
+  "author": "kuzzmy",
+  "license": "MIT"
+}
